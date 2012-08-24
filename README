@@ -1,0 +1,1 @@
+The BeagleBone Audio Cape provides a low-power audio output as well as an integrated microphone for BeagleBone. Two standard 3.5mm audio jacks are used for audio input and output. This cape also features a TLV320AIC3106, which is an audio codec with stereo headphone amplifier that can enable 48 kHz DAC playback.
